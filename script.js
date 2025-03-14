@@ -3,7 +3,7 @@ import { getFirestore, collection, addDoc } from "https://www.gstatic.com/fireba
 
 // TODO: Replace the following with your app's Firebase project configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDCidRFe0Oj2Qm-jtKpXane7hnPwmHR-Ec",
+  apiKey: "API_KEY",
   authDomain: "datos-de-formulario-78472.firebaseapp.com",
   projectId: "datos-de-formulario-78472",
   storageBucket: "datos-de-formulario-78472.appspot.com",
